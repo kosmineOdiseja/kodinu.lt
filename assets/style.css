@@ -1,8 +1,8 @@
 html, body
-{
+{file:///C:/programinu/kodinu.lt/puslapis.html#
   height: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 .jumbotron {
@@ -11,6 +11,24 @@ html, body
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+	padding: 20px;
 }
 
-	 
+header {
+	padding: 12px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.video-trigger{
+	display: flex; 
+	color: white;
+	text-decoration: none;
+}
+
+.video-trigger span {
+	align-self: center;
+	margin-left: 0px;
+
+
+}
